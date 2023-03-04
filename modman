@@ -1,0 +1,4 @@
+app/code/local/KO/ app/code/local/KO/
+app/design/adminhtml/default/default/layout/ko_logger.xml	app/design/adminhtml/default/default/layout/ko_logger.xml
+app/design/adminhtml/default/default/template/KO/logger/accesslog.phtml	app/design/adminhtml/default/default/template/KO/logger/accesslog.phtml
+app/etc/modules/KO_Logger.xml	app/etc/modules/KO_Logger.xml
